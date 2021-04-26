@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @w0xi
 - 👀 I’m interested in Cyber Space
 - 🌱 I’m currently learning Ruby
-- 💞️ I’m looking to collaborate on RDX Technology
+- 💞️ I’m currently collaborate on RDX
 - 📫 How to reach me xpwn7@pm.me
 
 <!---
