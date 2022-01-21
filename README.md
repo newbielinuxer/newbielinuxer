@@ -2,7 +2,6 @@
 - 👀 I’m interested in Cyber Space
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m currently collaborate on RND at my current Office at blablabla
-- 📫 How to reach me xpwn7@pm.me
 
 <!---
 w0xi/w0xi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
