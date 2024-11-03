@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wahyu Pamungkas
+- 👋 Hi, I’m Wahyu P.
 - 👀 I’m interested in Cyber Space
 - 💞️ I’m currently Infomation Security Analyst at my current Office at blablabla
 
