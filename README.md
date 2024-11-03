@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wahyu Pamungkas
 - 👀 I’m interested in Cyber Space
-- 🌱 I’m currently learning Ruby
 - 💞️ I’m currently Infomation Security Analyst at my current Office at blablabla
 
 <!---
