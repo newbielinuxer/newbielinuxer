@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wahyu P.
 - 👀 I’m interested in Cyber Space
-- 💞️ I’m currently Infomation Security Analyst at my current Office at blablabla
+- 💞️ I’m currently Analyst t at my current Office at Rudextech Indonesia
 
 <!---
 w0xi/w0xi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
